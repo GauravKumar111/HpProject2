@@ -1,0 +1,296 @@
+[
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539586849959,
+            "changeTime": 1539586849959,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539586849959,
+            "changeTime": 1539586849959,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539587850919,
+            "changeTime": 1539587850919,
+            "contentHash": "1a6d5d5caad65d9603cbde6c2212ee394b0a48ae"
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539586849959,
+            "changeTime": 1539586849959,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "c1d5deb6e7e68d21710e7dd9f877e05f0b875468",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547608,
+            "changeTime": 1539587547608,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "d13cd20cfc06ec9b62c803d87b99af8c1abc24fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields\\Account_Number__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields\\Account_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1539587547608,
+            "changeTime": 1539587547608,
+            "contentHash": "8d5281582f2a98bed26612a22dfe54af5b2c3ca4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields\\EmailType__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Contact\\fields\\EmailType__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "383a9bbf3648540749fa675547ec7fcfbfe616a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "c39e15fe7f26f1ab10d970499224926f73e1a93e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "77586d494f8108dbb67bce4ee159d541ff959033",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 323,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "2dbdb3ff1455dd155394ba428d6250614c770ea0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\DuplicateRecordSet\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "e4b132abe0188bc852e02dd6ff8367039e87e681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead\\fields",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "2eefbdd161e2c9ab6e94809ffa1a12c04b46cb03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead\\fields\\Rating__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\objects\\Lead\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 904,
+            "modifiedTime": 1539587547624,
+            "changeTime": 1539587547624,
+            "contentHash": "23a6064d7f46da388dc2f99046348245995c7912",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2",
+        {
+            "sourcePath": "C:\\Users\\al2042\\HpProject2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539587223252,
+            "changeTime": 1539587223252,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\permissionsets\\HpProject2.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\permissionsets\\HpProject2.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1539587850919,
+            "changeTime": 1539587850919,
+            "contentHash": "86e2e9abae089489f89d9ace122dec3ff524c2ea"
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\al2042\\HpProject2\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539587850919,
+            "changeTime": 1539587850919,
+            "contentHash": "d1920cc3bf36552c335a2086bb9d80fac88d2f7c"
+        }
+    ]
+]

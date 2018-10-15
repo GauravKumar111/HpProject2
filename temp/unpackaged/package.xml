@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HpPackage2</fullName>
+    <types>
+        <members>Contact.Account_Number__c</members>
+        <members>Contact.EmailType__c</members>
+        <members>DuplicateRecordSet.Email__c</members>
+        <members>DuplicateRecordSet.First_Name__c</members>
+        <members>DuplicateRecordSet.Phone__c</members>
+        <members>Lead.Rating__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>44.0</version>
+</Package>
